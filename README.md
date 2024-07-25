@@ -53,5 +53,3 @@ Can be run locally, which is more secure)
 11.use macchanger on system start
 
 Changing the mac address during boot (OpenRC "macchanger" service)
-
-
