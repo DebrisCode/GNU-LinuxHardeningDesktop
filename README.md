@@ -29,3 +29,14 @@ For example, you can block the execution of programs in certain directories, for
 Then you can connect the KickSecure or Whonix repository (The repository will not break dependencies, tested on Devuan GNU/Linux)
 
 there are profiles for AppArmor, Utilities for convenient work with Tor, etc.
+
+9.Use Whonix,Tor,VPN(only + VPN),Security and Privacy hardened Browser(https://brainfucksec.github.io/firefox-hardening-guide)
+For browser need also install privacy and security extension
+uBlock Origin
+NoScript
+Privacy Badger
+ClearURLs
+Decentraleyes
+Disconnect
+CanvasBlocker
+LibreJS(optional, Not necessarily, because it breaks 90% of sites because it blocks all Javascript licensed under a proprietary license
