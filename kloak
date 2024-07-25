@@ -1,0 +1,10 @@
+#!/sbin/openrc-run
+
+depend() {
+    need networking
+    after bootmisc
+}
+
+start() {
+    screen -dmS kloak kloak -d 300
+}

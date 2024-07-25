@@ -1,0 +1,12 @@
+#!/sbin/openrc-run
+
+depend() {
+    need networking
+    after bootmisc
+}
+
+start() {
+    /usr/bin/macchanger -e eth0
+    /usr/bin/macchanger -e wlan0
+    /usr/bin/macchanger -e usb0
+}
