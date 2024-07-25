@@ -44,8 +44,14 @@ LibreJS(optional, Not necessarily, because it breaks 90% of sites because it blo
 
 You can also use systems to counter the DPI system(GoodBye DPI-like)
 
+
+You can install SearX on your system(has analogues,
+Can be run locally, which is more secure)
+
 10.Use the "kloak" utility - this utility prevents the browser from de-anonymizing your fingerprint when typing on the keyboard, but may slow down keyboard input a little.
 
+11.use macchanger on system start
 
+Changing the mac address during boot (OpenRC "macchanger" service)
 
 
