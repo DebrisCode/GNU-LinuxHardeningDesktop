@@ -3,6 +3,7 @@ The author created this guide for himself as a checklist of what needs to be don
 
 if you want to add to my guide or correct it, write to "Issue"
 !!!!!!!!!!!!!
+Used LibreTranslate,GoogleTranslate :(
 
 1.Set GRUB Password
 2.Use Hardened Kernel
@@ -30,7 +31,7 @@ Then you can connect the KickSecure or Whonix repository (The repository will no
 
 there are profiles for AppArmor, Utilities for convenient work with Tor, etc.
 
-9.Use Whonix,Tor,VPN(only + VPN),Security and Privacy hardened Browser(https://brainfucksec.github.io/firefox-hardening-guide)
+9.Use Whonix,VPN,Tor(only + VPN),Security and Privacy hardened Browser(https://brainfucksec.github.io/firefox-hardening-guide)
 For browser need also install privacy and security extension
 uBlock Origin
 NoScript
@@ -40,3 +41,11 @@ Decentraleyes
 Disconnect
 CanvasBlocker
 LibreJS(optional, Not necessarily, because it breaks 90% of sites because it blocks all Javascript licensed under a proprietary license
+
+You can also use systems to counter the DPI system(GoodBye DPI-like)
+
+10.Use the "kloak" utility - this utility prevents the browser from de-anonymizing your fingerprint when typing on the keyboard, but may slow down keyboard input a little.
+
+
+
+
